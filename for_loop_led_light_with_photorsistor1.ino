@@ -3,6 +3,7 @@ int ledler[] = {2,3,4,5,6,7,8,9,10,11};
 // At this point, we define the legs to which our leds are connected in the form of an array to perform the operation using a shorter code.
 
 
+
 void setup() {
   for (int i =0;i<10;i++)// for döngüsü ve diziler kullanılarak kısa satırlarla çıkış bacaklarımızı tanımladık.
                         //We defined our output legs with short lines using the for loop and arrays.
