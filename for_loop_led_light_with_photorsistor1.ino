@@ -1,5 +1,7 @@
 //EminAyyildiz_MustafaAtila_MustafaEnesOzdel
+
 int ledler[] = {2,3,4,5,6,7,8,9,10,11}; 
+
 // bu noktada daha kısa bir kod kullanarak işlemi yerine getirmek için ledlerimizin bağlı olduğu bacakları dizi biçiminde tanımlıyoruz.
 // At this point, we define the legs to which our leds are connected in the form of an array to perform the operation using a shorter code.
 
